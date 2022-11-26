@@ -12,13 +12,13 @@ function Tools() {
   return (
     <div className="text-center to-pink-100">
       <h2 className="text-5xl py-2 text-teal-600 font-medium"> Tools</h2>
-      <div className="flex justify-center gap-14 p-10 text-7xl text-gray-600">
+      <div className=" text-5xl flex justify-center gap-10 py-3 text-gray-600">
         <FaGitAlt />
         <FaGithub />
         <FaDocker />
         <SiVim />
       </div>
-      <div className="flex justify-center gap-14 p-10 text-7xl text-gray-600 ">
+      <div className=" text-5xl flex justify-center gap-10 py-3 text-gray-600">
         <FaNodeJs />
         <FaReact />
         <SiSocketdotio />
